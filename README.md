@@ -295,8 +295,6 @@ This project demonstrates practical skills in **Excel, SQL Server, Power BI, DAX
 
 ---
 
-# Author
-
-**Abdisalaam Hassan Ahmed**
+### created by eslam gamal 
 
 **Data Analytics | SQL | Power BI | Excel**
